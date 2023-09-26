@@ -1,6 +1,5 @@
 name: Publish Docker Image for Users-svc
 
-
 # evento
 on: [push]
 
