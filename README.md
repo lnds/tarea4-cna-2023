@@ -20,6 +20,14 @@ Agrega una imagen de docker-hub donde se vean las imagenes creadas.
 
 Agrega los nombres de los miembros del equipo a este archivo.
 
+IMPORTANTE: la linea 26 dice:
+
+               images: lnds/labcna-chat-frontend
+
+Deben cambiar `lnds` por el nombre de usuario de ustedes en docker-hub.
+
+
+
 ## Respuestas:
 
 
