@@ -6,6 +6,12 @@ Haz un fork de este repo.
 
 Tener una cuenta en dockerhub.
 
+#Integrantes
+Nancy Bernal
+Felipe Pérez
+
+
+
 
 # Actividad
 
