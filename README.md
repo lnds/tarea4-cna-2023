@@ -10,6 +10,8 @@ Tener una cuenta en dockerhub.
 Nancy Bernal
 Felipe Pérez
 
+![image](https://github.com/fperezb/tarea4-cna-2023/assets/90433403/ba62c1db-ff54-45d7-a43f-6859953a1d02)
+
 
 
 
