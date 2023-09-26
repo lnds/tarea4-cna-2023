@@ -12,6 +12,8 @@ Felipe Pérez
 
 ![image](https://github.com/fperezb/tarea4-cna-2023/assets/90433403/ba62c1db-ff54-45d7-a43f-6859953a1d02)
 
+![image](https://github.com/fperezb/tarea4-cna-2023/assets/90433403/8fa4fa20-e285-4b6f-8680-10d198e0d73a)
+
 
 
 
