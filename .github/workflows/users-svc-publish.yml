@@ -22,7 +22,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: igonzperz7/labcna-chat-frontend
+          images: igonzperz7/labcna-users-svc
       
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
