@@ -6,6 +6,7 @@ Haz un fork de este repo.
 
 Tener una cuenta en dockerhub.
 
+
 # Actividad
 
 Configura los secrets: `DOCKER_USERNAME` y `DOCKER_PASSWORD`. Para esto navega hasta `settings` / `Security` / `Secrets and variables` / `Actions`.
