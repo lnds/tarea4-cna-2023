@@ -1,4 +1,4 @@
-name: Publish Docker Image for users-svc
+name: Publish Docker Image for ws-server
 
 on: [push]
 
