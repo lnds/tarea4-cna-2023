@@ -15,3 +15,7 @@ Basándose en el github action `.github/workflows/frontend-publish.yml` debes cr
 Crea las acciones, prúebalas y asegurate que quedan publicadas en docker-hub.
 
 Manda un Pull Request con las acciones creadas.
+
+Integrantes:
+  - Felix Cifuentes Cid
+  - Ignacio González Pérez
