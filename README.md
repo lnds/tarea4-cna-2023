@@ -22,4 +22,5 @@ Agrega los nombres de los miembros del equipo a este archivo.
 
 ## Respuestas:
 
-
+Integrantes:
+-Bryan Vicente Soto Astudillo
