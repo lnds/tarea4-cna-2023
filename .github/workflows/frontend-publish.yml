@@ -1,6 +1,5 @@
 name: Publish Docker Image for Frontend
 
-
 # evento
 on: [push]
 
