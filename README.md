@@ -24,3 +24,7 @@ Agrega los nombres de los miembros del equipo a este archivo.
 
 Integrantes:
 -Bryan Vicente Soto Astudillo
+
+Imagenes de evidencia:
+-Actions ejecutados github.png
+-validacion_dockerhub.png
