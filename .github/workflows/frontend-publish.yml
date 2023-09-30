@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: maguilf/labcna-chat-frontend
+          images: maguilf/labcna-chat-frontend1
       
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
