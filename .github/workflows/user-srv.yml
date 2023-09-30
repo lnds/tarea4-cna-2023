@@ -1,4 +1,4 @@
-name: Publicando imagen para User-srv (Tarea4, Respuesta 1 Prueba 2)
+name: Publicando imagen para User-srv (Tarea4, Respuesta_1)
 
 
 # evento
@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: maguilf/labcna-chat-user
+          images: maguilf/labcna-user
       
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
