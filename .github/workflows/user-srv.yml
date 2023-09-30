@@ -28,9 +28,12 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./users-srv
-          file: ./users-srv/Dockerfile
+          context: ./users-svc
+          file: ./users-svc/Dockerfile
           push: true
           tag_semver: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+
+      #ERROR: unable to prepare context: path "./users-srv" not found  
+      #Error: buildx failed with: ERROR: unable to prepare context: path "./users-srv" not found
