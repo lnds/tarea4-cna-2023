@@ -28,7 +28,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./chat-server
+          context: ./ws-server
           file: ./ws-server/Dockerfile
           push: true
           tag_semver: true
