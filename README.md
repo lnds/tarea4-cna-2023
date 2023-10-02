@@ -29,5 +29,9 @@ Deben cambiar `lnds` por el nombre de usuario de ustedes en docker-hub.
 
 
 ## Respuestas:
+![](docker-hub.png)   
+
+Grupo: Yasna León Foitzick
+
 
 
