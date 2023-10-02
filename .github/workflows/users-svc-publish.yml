@@ -1,4 +1,4 @@
-name: Publish Docker Image for Frontend
+name: Publish Docker Image for users-svc
 
 
 # evento
@@ -23,13 +23,13 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: yasnaLF/labcna-chat-frontend
+          images: yasnaLF/labcna-users-svc
       
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./chat-frontend
-          file: ./chat-frontend/Dockerfile
+          context: ./users-svc
+          file: ./users-svc/Dockerfile
           push: true
           tag_semver: true
           tags: ${{ steps.meta.outputs.tags }}
