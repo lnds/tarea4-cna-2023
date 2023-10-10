@@ -29,5 +29,5 @@ Deben cambiar `lnds` por el nombre de usuario de ustedes en docker-hub.
 
 
 ## Respuestas:
-
+- María Ignacia Cobo (evidencia en imagenes: "Action-git.jpg y Dockerhub.jpg")
 
